@@ -1,5 +1,7 @@
 # tasks-manager-artefact
 
+Sistema publicado : https://tasks-manager-artefact.ascorp.app
+
 CRUD de tarefas em memoria com Next.js + tRPC. Resposta do desafio.
 
 ## rodar
